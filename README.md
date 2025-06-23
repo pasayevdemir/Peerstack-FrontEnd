@@ -30,4 +30,4 @@ Bu layihə komandamızın əməkdaşlıq etdiyi proqram təminatının inkişaf 
 
 ## 🤝 Əlaqə və Koordinasiya
 
-Komanda üzvləri arasında səmərəli koordinasiya üçün **Peerstack WhatsApp**, **Qwasar Discord** kanalları və ya digər ünsiyyət platformaları vasitəsilə mütəmadi əlaqə saxlanılmalıdır.
+Komanda üzvləri arasında səmərəli koordinasiya üçün **Peerstack WhatsApp[https://discord.com/]**, **Qwasar Discord** kanalları və ya digər ünsiyyət platformaları vasitəsilə mütəmadi əlaqə saxlanılmalıdır.
